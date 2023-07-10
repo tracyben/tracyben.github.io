@@ -2,6 +2,7 @@ facebook.com, 2238713789600311, DIRECT, c3e20eee3f780d68
 google.com, pub-5490395849730683, DIRECT, f08c47fec0942fa0
 applovin.com, cd60a25c5f2d55e6d00d5d7d4fd58cc2, DIRECT
 google.com, pub-7414470432873962, DIRECT, f08c47fec0942fa0
+google.com, pub-4307195034965930, DIRECT, f08c47fec0942fa0
 
 liftoff.io, 7f6945815e6, RESELLER
 mintegral.com, 10038, RESELLER
